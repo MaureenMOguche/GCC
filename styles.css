@@ -1,0 +1,45 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 8px;
+}
+
+.icons i {
+    padding: 12px;
+    border-radius: 50%;
+}
+
+.fa-search{
+    background-color: #7EB693;
+    color: white;
+}
+
+.fa-cart-shopping{
+    background-color: #274C5B;
+    color: white;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.photo img{
+    width: 600px;
+}
+
+.exploreNow{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    padding: 10px 12px;
+    border-radius: 12px;
+}
